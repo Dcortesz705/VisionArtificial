@@ -1,0 +1,2 @@
+# VisionArtificial
+Clase Septiembre5
